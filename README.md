@@ -1,4 +1,4 @@
-# vue3.0前端底层架构，包括数据请求封装、路由管理、vuex管理等，集成element-plus,开箱即用
+## vue3.0前端底层架构，包括数据请求封装、路由管理、vuex管理等，集成element-plus,开箱即用
 #### 1、项目启动
 ```
 npm install  
